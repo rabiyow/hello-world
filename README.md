@@ -1,6 +1,4 @@
-hello-world
+Hello World
 ===========
 
-Beginners in git-hub.
-
-Student in LPU-Manila.
+This Project is for Newbie.
